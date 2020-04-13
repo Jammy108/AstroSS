@@ -31,6 +31,11 @@ Clone/download repository and then within the main directory run:
 
 ```pip install -r requirements.txt```
 
+## Credit
+
+- [Strings2](http://split-code.com/strings2.html)
+- [Planet Icon](https://www.freepik.com/free-photos-vectors/design)
+
 ## License 
 This project is licenses under the [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/) license.
 
