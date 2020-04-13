@@ -2,6 +2,8 @@
 
 Astro is a minecraft screenshare tool made with python that aims to help players & staff catch cheaters.
 
+![Astro Example](https://i.imgur.com/RsayBSs.png)
+
 ## Download
 Download the lastest compiled Astro version: [Releases](https://github.com/Jammy108/Astro/releases)
 
